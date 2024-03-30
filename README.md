@@ -35,4 +35,4 @@ List of all routes and their functionality in the app
 | /budget/:id | DELETE | delete the item with the matching id | |
 
 ## ERD
-![My ERD](https://i.imgur.com/38EhmPs.png)
+![My ERD](https://i.imgur.com/SbfizW6.png)
